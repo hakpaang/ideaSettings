@@ -4,5 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>.pom</mask>
+    <mask>*.fxml</mask>
   </component>
 </application>
